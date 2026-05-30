@@ -32,12 +32,6 @@ The parser:
 
 Output:
 
-```python
-{
-    (row, col): color_id
-}
-```
-
 ---
 
 ### 2. Solver
