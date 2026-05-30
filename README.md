@@ -10,7 +10,6 @@ An automated solver for the mobile puzzle game. Given a screenshot of an unsolve
 * Colored endpoint identification using image processing
 * Backtracking solver with MRV (Most Constrained Variable) heuristic
 * Visual rendering of solved paths
-* Supports both 9×9 and 10×10 puzzle screenshots
 * Fully implemented in Python using OpenCV and NumPy
 
 ---
