@@ -147,4 +147,4 @@ flow-free-solver/
 
 ## License
 
-This project is intended for educational and personal use
+This project is an independent educational project and is not affiliated with or endorsed by the creators of Flow Free. All game-related trademarks and copyrights belong to their respective owners.
