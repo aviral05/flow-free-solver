@@ -30,8 +30,6 @@ The parser:
 * Detects colored endpoints
 * Maps each endpoint to its corresponding grid cell
 
-Output:
-
 ---
 
 ### 2. Solver
@@ -111,8 +109,10 @@ flow-free-solver/
 ├── solver.py
 ├── renderer.py
 ├── main.py
+├── README.md
 ├── 9_1.jpeg
-├── 9_2.jpeg
+├── 9_1_Solution.png
+└── 9_2.jpeg
 ```
 
 ### File Descriptions
